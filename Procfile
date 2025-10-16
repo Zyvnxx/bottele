@@ -1,0 +1,1 @@
+worker: python auto_share_telethon.py
